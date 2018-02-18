@@ -1,0 +1,93 @@
+body
+{
+	margin: 0;
+	background-image:url("img/background.jpg");
+	color: #ebebeb;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+}
+header
+{
+	height: 100px;
+	background-color: #575757;
+	 opacity=0.5;
+
+}
+#topnav
+{
+
+}
+.logo
+{
+	float: left;
+	width: 90%;
+	<height:100px;
+}
+
+.menu
+{
+	float: right;
+	list-style-type: none;
+	margin: 0;
+	padding: 10px;
+	font-size: 35px;
+	min-height: 38px;
+	line-height: 200%;
+}
+
+.menu > li
+{
+	display: inline-block;
+	padding-left: 30px;
+	padding-right: 30px;
+
+}
+
+.menu a
+{
+	color: #fff;
+	text-decoration: none;
+}
+
+.menu a:hover
+{
+	color: #0a2b42;
+}
+
+.foto
+{
+	
+
+}
+.naglowek
+{
+	width: 100%;
+	height: 80px;
+	background-color: #9c1818;
+	text-align: center;
+	font-size: 40px;
+	margin-bottom: 1px;
+}
+.opis
+{
+	width: 80%;
+	background-color:#545556;
+	font-size: 20px;
+	text-align: left;
+	margin-left: 10%;
+	margin-top: 1px:;
+}
+.karty
+{
+	width: 90%;
+	margin-left: 5%;
+	text-align: center;
+}
+footer
+{
+	width: 100%;
+	height: 20%;
+	background-color:#9c1818;
+	text-align: center;
+	font-size: 50px;
+}
